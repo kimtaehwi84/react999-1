@@ -26,11 +26,12 @@
     transition: all 2s;
     text-transform: uppercase;
     font-family: 'saol';
-
-    .l2 {
+}
+.main__cont.tact {
+    div:nth-child(2){
         margin-left: 9vw;
-    } 
-    .l3 {
+    }
+    div:nth-child(3){
         margin-left: 18vw;
     }
 }

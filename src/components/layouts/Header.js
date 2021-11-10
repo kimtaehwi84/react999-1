@@ -15,7 +15,7 @@ function Header(){
                     <li><Link to="/Script">Script</Link></li>
                     <li><Link to="/Contact">Contact</Link></li>
                 </ul>
-                <a href="#" className="ham">
+                <a href="/" className="ham">
                     <span className="sr-only">menu</span>
                 </a>
             </nav>

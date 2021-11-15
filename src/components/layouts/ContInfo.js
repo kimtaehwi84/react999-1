@@ -9,7 +9,7 @@ function ContInfo(){
                 <div>
                     <p>Let’s create something new</p>
                     <h3>LET`S Get IN<br />TOUCH</h3>
-                    <Link to="/contact" className="contact">Contact Me</Link>
+                    <Link to="/Contact" className="contact">Contact Me</Link>
                 </div>
             </div>
         </section>

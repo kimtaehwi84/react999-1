@@ -1,0 +1,238 @@
+{
+    "data": {
+        "type": "html",
+        "cssRefer": [
+            {
+            "id": 1,
+            "link": "https://webzz.tistory.com/361",
+            "image": "https://i1.daumcdn.net/thumb/T650x650/?fname=https://blog.kakaocdn.net/dn/UGvT9/btq4OrNFowz/750gw2KqkbSqP9m5IJSYv0/img.png",
+            "title": "align-content",
+            "desc1": "align-content 속성은 콘텐츠 아이템의 상하관계 정렬 상태를 설정합니다.",
+            "desc2": "align-content 속성은 콘텐츠 아이템의 상하관계 정렬 상태를 설정합니다.",
+            "element": "(기본값)align-content : stretch",
+            "tag": "(적용)flexbox",
+            "version": "(버전)CSS3",
+            "use": "(사용성)★★★",
+            "definition": [
+                "align-content 속성은 콘텐츠 아이템의 상하관계 정렬 상태를 설정합니다.",
+                "align-content 속성은 한 줄(flex-wrap: nowrap)에서는 의미가 없습니다."
+            ]
+            },
+            {
+                "id": 2,
+                "link": "https://webzz.tistory.com/362",
+                "image": "https://i1.daumcdn.net/thumb/T650x650/?fname=https://blog.kakaocdn.net/dn/PA0O4/btq4RUPbfIp/mEKHQ9vZWkZ1pWVhBVUVp1/img.png",
+                "title": "align-items",
+                "desc1": "align-items 속성은 콘텐츠 아이템의 내부 상하관계 정렬 상태를 설정합니다.",
+                "desc2": "align-items 속성은 콘텐츠 아이템의 내부 상하관계 정렬 상태를 설정합니다.",
+                "element": "align-items : stretch",
+                "tag": "flexbox",
+                "version": "CSS3",
+                "use": "★★☆",
+                "definition": [
+                    "align-items 속성은 콘텐츠 아이템의 내부 상하관계 정렬 상태를 설정합니다.",
+                    "align-content 속성은 컨테이너의 높이 값을 기준으로 정렬하고 align-items 속성은 아이템의 높이 값을 기준으로 정렬합니다."
+                ]
+            },
+            {
+                "id": 3,
+                "link": "https://webzz.tistory.com/363",
+                "image": "https://i1.daumcdn.net/thumb/T650x650/?fname=https://blog.kakaocdn.net/dn/FKu9Q/btq4RNCD6El/kgoxIZigY7cR1zySWjUna1/img.png",
+                "title": "align-self",
+                "desc1": "align-self 속성은 개별적인 콘텐츠 아이템의 정렬 상태를 설정합니다.",
+                "desc2": "align-self 속성은 개별적인 콘텐츠 아이템의 정렬 상태를 설정합니다.",
+                "element": "align-self : auto",
+                "tag": "flexbox",
+                "version": "CSS3",
+                "use": "★★☆",
+                "definition": [
+                    "align-self 속성은 개별적인 플렉스 아이템의 정렬 상태를 설정합니다.",
+                    "align-self 속성은 플렉스 아이템에 설정하고, align-item와 align-content는 플렉스 컨테이너에 설정합니다."
+                ]
+            },
+            {
+                "id": 4,
+                "link": "https://webzz.tistory.com/364",
+                "image": "/",
+                "title": "all",
+                "desc1": "all 속성은 요소의 속성을 초기화 또는 상속을 설정합니다.",
+                "desc2": "all 속성은 요소의 속성을 초기화 또는 상속을 설정합니다.",
+                "element": "all : auto",
+                "tag": "모든 속성",
+                "version": "CSS3",
+                "use": "☆☆☆",
+                "definition": [
+                    "all 속성은 요소의 속성을 초기화 또는 상속을 설정합니다.",
+                    "all 속성은 모든 요소에 설정 가능합니다."
+                ]
+            },
+            {
+                "id": 5,
+                "link": "https://webzz.tistory.com/365",
+                "image": "https://i1.daumcdn.net/thumb/T650x650/?fname=https://blog.kakaocdn.net/dn/bfoJWo/btq4Uq7GjXO/qHlkQ3dYBasJPrOtXSonrK/img.png",
+                "title": "animation",
+                "desc1": "애니메이션은 움직임 시간, 움직임 지연 시간, 움직임 방향, 움직임 속도, 움직임 진행상태, 움직임 반복 횟수, 움직임 진행상태, 움직임 속도, 키프레임 이름 등을 설정하여 원하는 애니메이션을 구현 할 수 있습니다.",
+                "desc2": "animation 속성은 애니메이션과 관련된 속성을 일괄적으로 설정합니다.",
+                "element": "animation-name: none;",
+                "tag": "(상속)안됨",
+                "version": "CSS3",
+                "use": "★★★",
+                "definition": [
+                    "animation 속성은 애니메이션과 관련된 속성을 일괄적으로 설정합니다."
+                ]
+            },
+            {
+                "id": 6,
+                "link": "https://webzz.tistory.com/366",
+                "image": "https://i1.daumcdn.net/thumb/T650x650/?fname=https://blog.kakaocdn.net/dn/bfoJWo/btq4Uq7GjXO/qHlkQ3dYBasJPrOtXSonrK/img.png",
+                "title": "animation-delay",
+                "desc1": "애니메이션은 움직임 시간, 움직임 지연 시간, 움직임 방향, 움직임 속도, 움직임 진행상태, 움직임 반복 횟수, 움직임 진행상태, 움직임 속도, 키프레임 이름 등을 설정하여 원하는 애니메이션을 구현 할 수 있습니다.",
+                "desc2": "animation-delay 속성은 애니메이션 지연 시간을 설정합니다.",
+                "element": "animation-delay: 0s;",
+                "tag": "animations",
+                "version": "CSS3",
+                "use": "★★★",
+                "definition": [
+                    "animation-delay 속성은 애니메이션 지연 시간을 설정합니다."
+                ]
+            },
+            {
+                "id": 7,
+                "link": "https://webzz.tistory.com/367",
+                "image": "https://i1.daumcdn.net/thumb/T650x650/?fname=https://blog.kakaocdn.net/dn/bfoJWo/btq4Uq7GjXO/qHlkQ3dYBasJPrOtXSonrK/img.png",
+                "title": "animation-direction",
+                "desc1": "애니메이션은 움직임 시간, 움직임 지연 시간, 움직임 방향, 움직임 속도, 움직임 진행상태, 움직임 반복 횟수, 움직임 진행상태, 움직임 속도, 키프레임 이름 등을 설정하여 원하는 애니메이션을 구현 할 수 있습니다.",
+                "desc2": "animation-direction 속성은 애니메이션 움직임 방향을 설정합니다.",
+                "element": "animation-direction : normal;",
+                "tag": "animations",
+                "version": "CSS3",
+                "use": "★★☆",
+                "definition": [
+                    "animation-direction 속성은 애니메이션 움직임 방향을 설정합니다.",
+                    "animation-direction 속성에는 움직임 속성을 두개 이상 설정 할 수 있습니다."
+                ]
+            },
+            {
+                "id": 8,
+                "link": "https://webzz.tistory.com/231",
+                "image": "https://i1.daumcdn.net/thumb/T650x650/?fname=https://blog.kakaocdn.net/dn/KWSlV/btq4MTbqRrV/r2vIqzLlKBOtVKsBX8sga0/img.png",
+                "title": "animation-duration",
+                "desc1": "animation-duration 속성은 애니메이션 움직임 시간을 설정합니다.",
+                "desc2": "애니메이션은 움직임 시간, 움직임 지연 시간, 움직임 방향, 움직임 속도, 움직임 진행상태, 움직임 반복 횟수, 움직임 진행상태, 움직임 속도, 키프레임 이름 등을 설정하여 원하는 애니메이션을 구현 할 수 있습니다.",
+                "element": "animation-duration : 0s;",
+                "tag": "-",
+                "version": "CSS3",
+                "view": "-",
+                "use": "★★★",
+                "definition": [
+                  "animation-duration 속성은 애니메이션 움직임 시간을 설정합니다.",
+                  "animation-duration 속성에는 시간 속성을 두개 이상 설정 할 수 있습니다."
+                ]
+            },
+            {
+                "id": 9,
+                "link": "https://webzz.tistory.com/230",
+                "image": "https://i1.daumcdn.net/thumb/T650x650/?fname=https://blog.kakaocdn.net/dn/KWSlV/btq4MTbqRrV/r2vIqzLlKBOtVKsBX8sga0/img.png",
+                "title": "animation-fill-mode",
+                "desc1": "animation-fill-mode 속성은 애니메이션이 끝난 후의 상태를 설정합니다.",
+                "desc2": "애니메이션은 움직임 시간, 움직임 지연 시간, 움직임 방향, 움직임 속도, 움직임 진행상태, 움직임 반복 횟수, 움직임 진행상태, 움직임 속도, 키프레임 이름 등을 설정하여 원하는 애니메이션을 구현 할 수 있습니다.",
+                "element": "animation-fill-mode : none;",
+                "tag": "-",
+                "version": "  CSS3",
+                "view": "-",
+                "use": "★☆☆",
+                "definition": [
+                  "animation-fill-mode 속성은 애니메이션이 끝난 후의 상태를 설정합니다."
+                ]
+            },
+            {
+                "id": 10,
+                "link": "https://webzz.tistory.com/229",
+                "image": "https://i1.daumcdn.net/thumb/T650x650/?fname=https://blog.kakaocdn.net/dn/KWSlV/btq4MTbqRrV/r2vIqzLlKBOtVKsBX8sga0/img.png",
+                "title": "animation-iteration-count",
+                "desc1": "animation-iteration-count 속성은 애니메이션 반복 횟수 설정합니다.",
+                "desc2": "애니메이션은 움직임 시간, 움직임 지연 시간, 움직임 방향, 움직임 속도, 움직임 진행상태, 움직임 반복 횟수, 움직임 진행상태, 움직임 속도, 키프레임 이름 등을 설정하여 원하는 애니메이션을 구현 할 수 있습니다.",
+                "element": "animation-iteration-count : none;",
+                "tag": "-",
+                "version": "CSS3",
+                "view": "=",
+                "use": "★★★",
+                "definition": [
+                  "animation-iteration-count 속성은 애니메이션 반복 횟수 설정합니다."
+                ]
+            },
+            {
+                "id": 11,
+                "link": "https://webzz.tistory.com/371",
+                "image": "https://i1.daumcdn.net/thumb/T650x650/?fname=https://blog.kakaocdn.net/dn/KWSlV/btq4MTbqRrV/r2vIqzLlKBOtVKsBX8sga0/img.png",
+                "title": "animation-name",
+                "desc1": "animation-name 속성은 애니메이션 keyframe 이름을 설정합니다.",
+                "desc2": "animation-name 속성은 애니메이션 keyframe 이름을 설정합니다.",
+                "element": "animation-name : none;",
+                "tag": "animations",
+                "version": "CSS3",
+                "view": "밑줄과 파란색으로 표시",
+                "use": "★★★",
+                "definition": [
+                  "animation 속성은 애니메이션과 관련된 속성을 일괄적으로 설정합니다.",
+                  "animation-delay 속성은 애니메이션 지연 시간을 설정합니다.",
+                  "animation-direction 속성은 애니메이션 움직임 방향을 설정합니다.",
+                  "animation-duration 속성은 애니메이션 움직임 시간을 설정합니다.",
+                  "animation-fill-mode 속성은 애니메이션이 끝난 후의 상태를 설정합니다.",
+                  "animation-iteration-count 속성은 애니메이션 반복 횟수를 설정합니다.",
+                  "animation-name 속성은 애니메이션 keyframe 이름을 설정합니다.",
+                  "animation-play-state 속성은 애니메이션 진행 상태를 설정합니다.",
+                  "animation-timing-function 속성은 애니메이션 움직임의 속도를 설정합니다."
+                ]
+            },
+            {
+                "id": 12,
+                "link": "https://webzz.tistory.com/372",
+                "image": "https://i1.daumcdn.net/thumb/T650x650/?fname=https://blog.kakaocdn.net/dn/KWSlV/btq4MTbqRrV/r2vIqzLlKBOtVKsBX8sga0/img.png",
+                "title": "animation-play-state",
+                "desc1": "animation-play-state 속성은 애니메이션 진행상태를 설정합니다.",
+                "desc2": "animation-play-state 속성은 애니메이션 진행상태를 설정합니다.",
+                "element": "animation-play-state : running;",
+                "tag": "animations",
+                "version": "CSS3",
+                "view": "점선(브라우저마다 틀림) 및 툴팁",
+                "use": "★★☆",
+                "definition": [
+                  "animation 속성은 애니메이션과 관련된 속성을 일괄적으로 설정합니다.",
+                  "animation-delay 속성은 애니메이션 지연 시간을 설정합니다.",
+                  "animation-direction 속성은 애니메이션 움직임 방향을 설정합니다.",
+                  "animation-duration 속성은 애니메이션 움직임 시간을 설정합니다.",
+                  "animation-fill-mode 속성은 애니메이션이 끝난 후의 상태를 설정합니다.",
+                  "animation-iteration-count 속성은 애니메이션 반복 횟수를 설정합니다.",
+                  "animation-name 속성은 애니메이션 keyframe 이름을 설정합니다.",
+                  "animation-play-state 속성은 애니메이션 진행 상태를 설정합니다.",
+                  "animation-timing-function 속성은 애니메이션 움직임의 속도를 설정합니다."
+                ]
+              },
+              {
+                "id": 13,
+                "link": "https://webzz.tistory.com/373",
+                "image": "https://i1.daumcdn.net/thumb/T650x650/?fname=https://blog.kakaocdn.net/dn/KWSlV/btq4MTbqRrV/r2vIqzLlKBOtVKsBX8sga0/img.png",
+                "title": "animation-timing-function",
+                "desc1": "animation-timing-function 속성은 애니메이션 움직임의 속도를 설정합니다.",
+                "desc2": "animation-timing-function 속성은 애니메이션 움직임의 속도를 설정합니다.",
+                "element": "animation-timing-function : linear;",
+                "tag": "animations",
+                "version": "CSS3",
+                "view": "점선(브라우저마다 틀림) 및 툴팁",
+                "use": "★★☆",
+                "definition": [
+                  "animation 속성은 애니메이션과 관련된 속성을 일괄적으로 설정합니다.",
+                  "animation-delay 속성은 애니메이션 지연 시간을 설정합니다.",
+                  "animation-direction 속성은 애니메이션 움직임 방향을 설정합니다.",
+                  "animation-duration 속성은 애니메이션 움직임 시간을 설정합니다.",
+                  "animation-fill-mode 속성은 애니메이션이 끝난 후의 상태를 설정합니다.",
+                  "animation-iteration-count 속성은 애니메이션 반복 횟수를 설정합니다.",
+                  "animation-name 속성은 애니메이션 keyframe 이름을 설정합니다.",
+                  "animation-play-state 속성은 애니메이션 진행 상태를 설정합니다.",
+                  "animation-timing-function 속성은 애니메이션 움직임의 속도를 설정합니다."
+                ]
+            }        
+        ]
+    }
+  }

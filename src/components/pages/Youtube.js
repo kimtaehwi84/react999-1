@@ -44,6 +44,7 @@ function Youtube() {
     }, []);
     return (
         <div>
+            <Loading />
             <Header />
             <Contents>
                 <section id="youtubeCont">
